@@ -1,6 +1,7 @@
 # f0tp
 From 0 to Prediction
 
+--------------------------------------------------------------------------------------------
 Ideias: 
 
 1 - Collaboratively build a roadmap guiding the data analysis procedures and steps from zero to prediction.
@@ -11,8 +12,11 @@ Ideias:
 
 4 - For each step, suggest related tools, methods, lectures, researches, etc... that will help complete that step
 
-Structure = Processes > Procedures > Steps
+--------------------------------------------------------------------------------------------
 
+Structure [ Processes > Procedures > Steps ]
+
+--------------------------------------------------------------------------------------------
 Major Processes:
 1 - Getting and Cleaning
 2 - Exploratory Data Analysis
