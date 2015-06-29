@@ -2,11 +2,11 @@
 From 0 to Prediction
 
 --------------------------------------------------------------------------------------------
-Ideias: 
+Ideas: 
 
 1 - Collaboratively build a roadmap guiding the data analysis procedures and steps from zero to prediction.
 
-2 - It should be like a checklist with the "best-practices" steps to be taken or no
+2 - It should be like a checklist with the "best-practices" steps to be taken or avoided
 
 3 - It should say 5W2H for each step (What to do, Why do it, When will do, Where, How, How much)
 
