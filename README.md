@@ -26,7 +26,8 @@ Major Processes:
 Measures:
 - Uncertainty
 - Noise
-- Error rate
+- Errors rate
+
 - 
 --------------------------------------------------------------------------------------------
 
