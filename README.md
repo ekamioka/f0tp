@@ -22,5 +22,12 @@ Major Processes:
 2 - Exploratory Data Analysis
 3 - Building Statistical Model
 
+--------------------------------------------------------------------------------------------
+Measures:
+- Uncertainty
+- Noise
+- Error rate
+- 
+--------------------------------------------------------------------------------------------
 
 
